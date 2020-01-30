@@ -24,7 +24,7 @@
 ## POSSIBILITY OF SUCH DAMAGE.
 #
 
-import Tkinter as tk
+import tkinter as tk
 import usbtest
 
 class usbtestgui:
